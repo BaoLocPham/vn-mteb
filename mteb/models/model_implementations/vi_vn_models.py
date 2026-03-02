@@ -57,7 +57,7 @@ greennode_embedding_large_vn_mixed_v1 = ModelMeta(
     adapted_from="BAAI/bge-m3",
 )
 
-greennode_embedding_large_vn_v1 = ModelMeta(
+greennode_embedding_kalm_mini_instruct_vn_v1 = ModelMeta(
     name="GreenNode/GreenNode-Embedding-KaLM-Mini-Instruct-VN-V1",
     model_type=["dense"],
     revision="c123a4b0ef40ed847cb5122ff2c70ffc92129f3a",
@@ -83,7 +83,7 @@ greennode_embedding_large_vn_v1 = ModelMeta(
     adapted_from="KaLM-Embedding/KaLM-embedding-multilingual-mini-instruct-v2.5",
 )
 
-greennode_embedding_large_vn_mixed_v1 = ModelMeta(
+greennode_embedding_e5_large_vn_v1 = ModelMeta(
     name="GreenNode/GreenNode-Embedding-E5-Large-VN-V1",
     model_type=["dense"],
     revision="a15ad86a2a4c80f168210a17cc5d540a52354113",
